@@ -1,5 +1,8 @@
 body{
     background-image: url('background.webp');
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 table{
     width: 80%;

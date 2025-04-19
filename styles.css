@@ -1,3 +1,6 @@
+body{
+    background-image: url('background.webp');
+}
 table{
     width: 80%;
     margin: 40px auto;
